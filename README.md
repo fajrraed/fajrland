@@ -1,10 +1,10 @@
-Fajr Alhusanan
+#Fajr Alhusanan
 my github repository
 Hello I'm Fajr
 
 a Data Science Student that is passionate about uncovering insights and building intelligent solutions.  
 my skiles are Python, R, SQL, and Data Visualization.  
-📊 Interested in Machine Learning, Artificial Intelligence, and Big Data Analytics.
+Interested in Machine Learning, Artificial Intelligence, and Big Data Analytics.
 
 ---
 
