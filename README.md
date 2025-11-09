@@ -1,6 +1,6 @@
 # fajrland
 my github repository
-# 👋 Hello I'm Fajr
+Hello I'm Fajr
 
 a Data Science Student that is passionate about uncovering insights and building intelligent solutions.  
 my skiles are Python, R, SQL, and Data Visualization.  
